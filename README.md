@@ -233,7 +233,7 @@
             <div class="product-card">
                 <img src="https://source.unsplash.com/200x200/?potato" alt="Potato">
                 <h3>Potato (Alu)</h3>
-                <p class="price">৳ 30/kg</p>
+                <p class="price">৳ 20/kg</p>
                 <button class="add-to-cart" onclick="addToCart('Potato', 30)">Add to Cart</button>
             </div>
             
@@ -241,7 +241,7 @@
             <div class="product-card">
                 <img src="https://source.unsplash.com/200x200/?tomato" alt="Tomato">
                 <h3>Tomato</h3>
-                <p class="price">৳ 80/kg</p>
+                <p class="price">৳ 50/kg</p>
                 <button class="add-to-cart" onclick="addToCart('Tomato', 80)">Add to Cart</button>
             </div>
             
